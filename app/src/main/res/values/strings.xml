@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BLE-MWD</string>
+    <string name="log_view_welcom">欢迎使用蓝牙无线随钻产品\n\n请连接测试接头并打开设备电源\n\n正在搜索设备……</string>
+    <string name="title_home">控制</string>
+    <string name="title_dashboard">采样</string>
+    <string name="title_notifications">绘图</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="frag1_msg">验证通信成功！</string>
+    <string name="frag2_msg">fragment 222</string>
+    <string name="frag3_msg">fragment 333</string>
+
+    <string name="btn_ReConnect">重新连接</string>
+    <string name="btn_CommTest">验证通信</string>
+    <string name="btn_DataDownload">下载数据</string>
+    <string name="btn_CommExit">井下工作</string>
+    <string name="btn_Diagnose">仪器诊断</string>
+    <string name="btn_ADTest_on">开始采集</string>
+    <string name="btn_ADTest_off">停止采集</string>
+    <string name="btn_Draw">绘制曲线</string>
+    <string name="btn_Exit">X</string>
+</resources>
